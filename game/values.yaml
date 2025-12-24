@@ -1,0 +1,8 @@
+image:
+  repository: shammu101/netflix
+  tag: "latest"
+  pullPolicy: IfNotPresent
+
+service:
+  type: LoadBalancer
+  port: 80

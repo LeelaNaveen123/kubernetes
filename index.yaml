@@ -1,0 +1,47 @@
+apiVersion: v1
+entries:
+  cycle:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-12-29T08:14:20.003648444Z"
+    description: A Helm chart for Kubernetes
+    digest: 0c5ad6d9fc4edd3d7707ef771cc52d54806c0a820ce170c7edd602802cde0241
+    name: cycle
+    type: application
+    urls:
+    - cycle-0.1.0.tgz
+    version: 0.1.0
+  dm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-12-29T08:14:20.003758375Z"
+    description: A Helm chart for Kubernetes
+    digest: 33afb8fc0ac2f1a94db7e045de5eb0983197bc42a03072b1278380587cf69d03
+    name: dm
+    type: application
+    urls:
+    - dm-0.1.0.tgz
+    version: 0.1.0
+  game:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-12-29T08:14:20.003861072Z"
+    description: A Helm chart for Kubernetes
+    digest: 8f28b6a79a2fae7a4a4b9f02be0916b68fb19a7bad176b60f9753105746dcc5e
+    name: game
+    type: application
+    urls:
+    - game-0.1.0.tgz
+    version: 0.1.0
+  netflix:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-12-29T08:14:20.003985615Z"
+    description: A Helm chart for Kubernetes
+    digest: f21dbf81f2849448c84dd98d4a1e3ebef99e74203d34fe97bca358578cb49743
+    name: netflix
+    type: application
+    urls:
+    - netflix-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-12-29T08:14:20.003402043Z"
